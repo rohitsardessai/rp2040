@@ -1,7 +1,6 @@
 # RP2040 Breakout board
 
-
-### Publish data from an HTML form into a Firebase realtime database
+![Board Preview](/rp2040.png)
 
 Breakout board for the RP2040 microcontroller with minimal circuitry.
 The repository contains Eagle board files and libraries.
