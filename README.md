@@ -15,3 +15,4 @@ Features:
 - Castellated pads
 
 This board was made by referring to Philip Salmony's wonderful [YouTube channel](https://www.youtube.com/c/PhilS94/videos) . I highly recommend it.
+Sparkfun's open source designs also helped a lot.
